@@ -7,6 +7,7 @@
 
 ---
 
+
 ### :woman_technologist: About Me :
 
 - :telescope: I’m a software engineer currently looking for work.
@@ -15,6 +16,10 @@
 - :zap: In my free time, I love to play DiabloIV, play with my adorable kitty Bella and spend time with my beautiful daughter.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Melinda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melinda-cortez-3581b0139/)
+
+---
+
+  ![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solita43&show_icons=true&theme=transparent)
 
 <!--
 **Solita43/Solita43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
