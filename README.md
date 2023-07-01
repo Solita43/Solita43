@@ -13,7 +13,7 @@
 - :telescope: I’m a software engineer currently looking for work.
 - :seedling: I used to work as a substance abuse counselor which helped me learn how to understand and interact with people from all walks of life.
 
-- :zap: In my free time, I love to play DiabloIV, play with my adorable kitty Bella and spend time with my beautiful daughter.
+- :zap: In my free time I love playing DiabloIV, playing with my adorable kitty Bella and spending time with my beautiful daughter.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Melinda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melinda-cortez-3581b0139/)
 
