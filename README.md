@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/attachments/1125150788419858554/1183574688266469446/Frame_2_1.png?ex=6588d4d3&is=65765fd3&hm=f7fd4fed49da5872f925273757faef4b4d92068dadf9e63a2203ac76719e2cc2&" width="200"/>
 <div>
   <img src="https://komarev.com/ghpvc/?username=Solita43&style=flat-square&color=blue" alt=""/>
 </div>
@@ -15,7 +15,7 @@
 
 - :zap: In my free time I love playing DiabloIV, playing with my adorable kitty Bella and spending time with my beautiful daughter.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Melinda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melinda-cortez-3581b0139/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Melinda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melinda-cortez-3581b0139/)
 
 ---
 
